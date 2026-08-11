@@ -2,13 +2,13 @@
 
 🚀 I'm a Devops Learner focuced on building practical  skills in cloud, automations, and CI/CD.
 
--  🌱 I’m currently learning Devops with industry based projects.
+-  🌱 I'm currently learning DevOps through industry-based projects.
 -  🔃 Currently working on #90DaysOfDevOps challenge & Real-world DevOps projects.
--  🔧 building the industry based Devops Mindset and Deploy project.
--  🐧Exploring Linux,Docker,Git-Gihub,GitHubActions.
--  📚 always learning and improving step by step.
--  💭 Ask me about Devops LINUX/DOCKER/CI/CD etc.
--  ⚡ I love to sharing knowledge through Github & Lindin.
+-  🛠️ Building an industry-oriented DevOps mindset through hands-on projects.
+-  🔧 Exploring Linux, Docker, Git, GitHub, and GitHub Actions.
+-  📚 Always learning and improving, step by step.
+-  💭 Ask me about DevOps, Linux, Docker, and CI/CD.
+-  ⚡ I love sharing my learning journey through GitHub and LinkedIn.
 
 ## Tech Stack
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -22,6 +22,6 @@
 ## 📫 Connect With Me
 
 - 📩 Email: chaitanyakolse738@gmail.com
-- 💼 Linkdin: https://www.linkedin.com/in/chaitanya-kolse-1b7230385/edit/intro/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3Bed%2FrLYQCTrW58ezCkMNb2w%3D%3D
+- 💼 Linkdin: https://www.linkedin.com/in/chaitanya-kolse-1b7230385?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
 
