@@ -22,6 +22,6 @@
 ## 📫 Connect With Me
 
 - 📩 Email: chaitanyakolse738@gmail.com
-- 💼 Linkdin: https://www.linkedin.com/in/chaitanya-kolse-1b7230385/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BNvRqrijRTteP9WqzpqORlA%3D%3D
+- 💼 Linkdin: https://www.linkedin.com/in/chaitanya-kolse-1b7230385/edit/intro/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3Bed%2FrLYQCTrW58ezCkMNb2w%3D%3D
 
 
