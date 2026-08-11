@@ -1,5 +1,4 @@
 ## Hi 👋 I'am Chaitanya 
---------------------
 
 🚀 I'm a Devops Learner focuced on building practical  skills in cloud, automations, and CI/CD.
 
