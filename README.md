@@ -6,7 +6,7 @@
  - 🔃 Currently working on #90DaysOfDevOps challenge & Real-world DevOps projects.
  - 🐧Exploring Linux,Docker,Git-Gihub,GitHubActions.
  - 🔗 https://github.com/chaitanyakolse738-art/90DaysOfDevOps
-   🔗 https://github.com/chaitanyakolse738-art/PERN-Store
+       https://github.com/chaitanyakolse738-art/PERN-Store
 
 
 
