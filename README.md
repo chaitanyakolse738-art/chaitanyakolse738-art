@@ -2,11 +2,11 @@
 
 🚀 I'm a Devops Learner focuced on building practical  skills in cloud, automations, and CI/CD.
 
-## 🌱 I’m currently learning Devops with industry based projects.
-## 🔃 Currently working on #90DaysOfDevOps challenge & Real-world DevOps projects.
-## 🐧Exploring Linux,Docker,Git-Gihub,GitHubActions.
-## 🔗 https://github.com/chaitanyakolse738-art/90DaysOfDevOps
-## 🔗 https://github.com/chaitanyakolse738-art/PERN-Store
+ - 🌱 I’m currently learning Devops with industry based projects.
+ - 🔃 Currently working on #90DaysOfDevOps challenge & Real-world DevOps projects.
+ - 🐧Exploring Linux,Docker,Git-Gihub,GitHubActions.
+ - 🔗 https://github.com/chaitanyakolse738-art/90DaysOfDevOps
+   🔗 https://github.com/chaitanyakolse738-art/PERN-Store
 
 
 
