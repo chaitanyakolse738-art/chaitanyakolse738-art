@@ -1,6 +1,6 @@
 ## Hi 👋 I'am Chaitanya 
 
-🚀 I'm a Devops Learner focuced on building practical  skills in cloud, automations, and CI/CD.
+🚀 🚀 I'm an aspiring DevOps Engineer focused on building practical expertise in cloud infrastructure, automation, and CI/CD.
 
 -  🌱 I'm currently learning DevOps through industry-based projects.
 -  🔃 Currently working on #90DaysOfDevOps challenge & Real-world DevOps projects.
@@ -8,7 +8,7 @@
 -  🔧 Exploring Linux, Docker, Git, GitHub, and GitHub Actions.
 -  📚 Always learning and improving, step by step.
 -  💭 Ask me about DevOps, Linux, Docker, and CI/CD.
--  ⚡ I love sharing my learning journey through GitHub and LinkedIn.
+-  ⚡ I love sharing my learning journey through GitHub and Linkedin.
 
 ## Tech Stack
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
