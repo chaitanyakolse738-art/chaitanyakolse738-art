@@ -1,8 +1,7 @@
 ## Hi 👋 I'am Chaitanya 
------------------
+--------------------
 
 🚀 I'm a Devops Learner focuced on building practical  skills in cloud, automations, and CI/CD.
------------------------------
 
 ## 🌱 I’m currently learning Devops with industry based projects.
 ## 🔃 Currently working on #90DaysOfDevOps challenge & Real-world DevOps projects.
@@ -11,7 +10,6 @@
 ## 🔗 https://github.com/chaitanyakolse738-art/PERN-Store
 
 
------------------------------
 
 ## Tech Stack
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -25,7 +23,6 @@
 ## 📫 Connect With Me
 
 - 📩 Email: chaitanyakolse738@gmail.com
-
 - 💼 Linkdin: https://www.linkedin.com/in/chaitanya-kolse-1b7230385/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BNvRqrijRTteP9WqzpqORlA%3D%3D
 
 
